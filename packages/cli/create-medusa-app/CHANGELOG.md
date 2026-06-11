@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.16.0
+
+### Patch Changes
+
+- [#15630](https://github.com/medusajs/medusa/pull/15630) [`740132b7576d937b82e913c1ccf4cfabe56777d6`](https://github.com/medusajs/medusa/commit/740132b7576d937b82e913c1ccf4cfabe56777d6) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(create-medusa-app, telemetry, dashboard, medusa): update react-router-dom and uuid packages
+
+- Updated dependencies [[`456813f8b36ab1086dec09c6a89655d7ab0bae5b`](https://github.com/medusajs/medusa/commit/456813f8b36ab1086dec09c6a89655d7ab0bae5b), [`740132b7576d937b82e913c1ccf4cfabe56777d6`](https://github.com/medusajs/medusa/commit/740132b7576d937b82e913c1ccf4cfabe56777d6)]:
+  - @medusajs/deps@2.16.0
+  - @medusajs/telemetry@2.16.0
+
 ## 2.15.5
 
 ### Patch Changes
